@@ -46,7 +46,7 @@ conda install conda-forge::opencv
 ```bash
 conda install -c conda-forge ultralytics
 ```
-7. Set the Kernel of traffic_optimisation.ipynb to yolov9
+7. Set the Kernel of traffic_detection.ipynb to yolov9
 8. You are all set to run the project.
 
 ## Contributor
